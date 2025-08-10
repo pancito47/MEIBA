@@ -191,13 +191,13 @@ main {
   color: #0056b3;
   margin-bottom: 15px;
 }
-.video-seccion3{
+.seccion3-cards{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
 }
-
 /* Footer */
 .footer-redes {
     text-align: left;
